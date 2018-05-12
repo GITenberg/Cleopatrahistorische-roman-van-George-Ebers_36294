@@ -1,0 +1,39 @@
+_repo: Cleopatrahistorische-roman-van-George-Ebers_36294
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Stuart, Louise
+    gutenberg_agent_id: '38196'
+    url: http://www.gutenberg.org/2009/agents/38196
+covers:
+- cover_type: archival
+  image_path: 36294-h/images/cover-th.jpg
+creator:
+  author:
+    agent_name: Ebers, Georg
+    aliases:
+    - Ebers, George Moritz
+    - Ebers, Georg Moritz
+    birthdate: 1837
+    deathdate: 1898
+    gutenberg_agent_id: '1800'
+    url: http://www.gutenberg.org/2009/agents/1800
+    wikipedia: http://en.wikipedia.org/wiki/Georg_Ebers
+description: ''
+gutenberg_issued: '2011-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36294'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Cleopatra, Queen of Egypt, -30 B.C. -- Fiction'
+- !lcsh 'Egypt -- History -- 332-30 B.C. -- Fiction'
+- !lcsh 'Biographical fiction'
+- !lcsh 'Queens -- Egypt -- Fiction'
+- !lcsh 'German fiction -- Translations into Dutch'
+title: 'Cleopatra: historische roman van George Ebers'
+url: http://www.gutenberg.org/ebooks/36294
